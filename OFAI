@@ -4,7 +4,7 @@ import re
 import urllib.request
 import urllib.error
 
-DEFAULT_DATA_URL = "https://raw.githubusercontent.com/b izancio11/ort_friends/main/intents.json"
+DEFAULT_DATA_URL = "https:///"
 
 
 def carga_intents_desde_url(url):
