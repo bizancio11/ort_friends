@@ -124,7 +124,7 @@ class HUD:
         self.fuente = fuente
         self.nombre = nombre
         self.vuelta = 1
-        self.total_vueltas = 20
+        self.total_vueltas = 35
         self.tiempo = 0
         self.posicion = 1
 
